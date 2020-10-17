@@ -8,7 +8,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jacksonchen171" height="25" width="25" />
   </a>
 </p>
-<h3 align="center">Full Stack Developer</h3>
+<p align="center"> Let's connect! </p>
 <br>
 
 <h4 align="center">Architecture & RDBMS:</h4>
