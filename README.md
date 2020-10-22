@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>  -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
