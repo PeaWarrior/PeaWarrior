@@ -4,7 +4,7 @@
   <a href=https://twitter.com/jacksonchen171 target="blank"><img align="center" src=https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg alt="@jacksonchen171" height="30" width="30" /></a>
   <a href=https://medium.com/@jacksonchen171 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="@jacksonchen171" height="30" width="30" /></a>
 </p>
-<p align="center"> Full stack software engineer with a passion for problem solving and constant growth.<br> Experienced in building full stack web applications with Ruby and Javascript based programming incorporating agile development methodologies.</p>
+<p align="center"> Full stack software engineer with a passion for problem solving and constant growth.<br> Experienced in building full stack web applications with Ruby and Javascript based programming.</p>
 <br>
 
 <h4 align="center">Programming Languages:</h4>
