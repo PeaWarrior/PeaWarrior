@@ -5,12 +5,11 @@
 [![Medium Bade](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@jacksonchen171)
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=peawarrior.peawarrior)](https://jacksonchen.dev)
 
-<p>Full stack software engineer with a passion for problem solving and constant growth.<br> Experienced in building full stack web applications with Ruby and Javascript based programming.</p>
-<br>
 
 <a href="https://github.com/peawarrior">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peawarrior&show_icons=true&theme=prussian" alt="Jackson's GitHub Stats" />
 </a>
+
 <a href="https://github.com/peawarrior">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peawarrior&show_icons=true&theme=prussian&langs_count=4&layout=compact" alt="Jackson's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peawarrior&show_icons=true&theme=prussian&langs_count=4&hide=html,css,scss" alt="Jackson's Top Languages" />
 </a>
