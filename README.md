@@ -5,7 +5,7 @@
 [![Medium Bade](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@jacksonchen171)
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=peawarrior.peawarrior)](https://jacksonchen.dev)
 
-<p align="center"> Full stack software engineer with a passion for problem solving and constant growth.<br> Experienced in building full stack web applications with Ruby and Javascript based programming.</p>
+<p>Full stack software engineer with a passion for problem solving and constant growth.<br> Experienced in building full stack web applications with Ruby and Javascript based programming.</p>
 <br>
 
 <a href="https://github.com/peawarrior">
