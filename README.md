@@ -1,4 +1,4 @@
-[![Jackson's Banner](https://user-images.githubusercontent.com/53205189/117750032-bf95fa80-b1e0-11eb-8cb0-9da6acaf4adf.png)](https://jacksonchen.dev)
+[![Jackson's Banner](https://user-images.githubusercontent.com/53205189/117752570-038afe80-b1e5-11eb-9a59-c2f2600b53d6.png)](https://jacksonchen.dev)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/jacksonchen171/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/jacksonchen171)
